@@ -1,0 +1,247 @@
+[
+    {
+        "instructor-name": "Henry Williams",
+        "course-name": "CSS For Beginners",
+        "course-description": "Learn the basics of CSS to style and design web pages."
+    },
+    {
+        "instructor-name": "Sophia Lee",
+        "course-name": "JavaScript Essentials",
+        "course-description": "Get introduced to JavaScript fundamentals to create interactive websites."
+    },
+    {
+        "instructor-name": "Liam Johnson",
+        "course-name": "Data Science Foundations",
+        "course-description": "Explore core data science concepts for data analysis and visualization."
+    },
+    {
+        "instructor-name": "Emma Brown",
+        "course-name": "Python for Beginners",
+        "course-description": "Start coding with Python and learn programming basics."
+    },
+    {
+        "instructor-name": "Mason White",
+        "course-name": "HTML & CSS for Web Design",
+        "course-description": "Master HTML and CSS to build your own responsive websites."
+    },
+    {
+        "instructor-name": "Olivia Wilson",
+        "course-name": "Machine Learning 101",
+        "course-description": "Discover the basics of machine learning and its applications."
+    },
+    {
+        "instructor-name": "Ethan Thompson",
+        "course-name": "Introduction to Cloud Computing",
+        "course-description": "Learn about cloud services and the fundamentals of cloud computing."
+    },
+    {
+        "instructor-name": "Ava Anderson",
+        "course-name": "SEO Basics for Content Creators",
+        "course-description": "Understand the essentials of SEO to enhance content visibility."
+    },
+    {
+        "instructor-name": "James Brown",
+        "course-name": "Web Development with React",
+        "course-description": "Build dynamic web applications with React.js."
+    },
+    {
+        "instructor-name": "Isabella Martin",
+        "course-name": "Introduction to Java Programming",
+        "course-description": "Learn Java programming basics and object-oriented principles."
+    },
+    {
+        "instructor-name": "Lucas Harris",
+        "course-name": "Data Analysis with Excel",
+        "course-description": "Use Excel to analyze data and create visualizations."
+    },
+    {
+        "instructor-name": "Emily Garcia",
+        "course-name": "Digital Marketing Essentials",
+        "course-description": "Explore the key strategies in digital marketing for online growth."
+    },
+    {
+        "instructor-name": "Noah Robinson",
+        "course-name": "SQL for Data Management",
+        "course-description": "Learn SQL to manage and query databases effectively."
+    },
+    {
+        "instructor-name": "Mia Lewis",
+        "course-name": "Intro to Graphic Design",
+        "course-description": "Gain a foundation in graphic design principles and tools."
+    },
+    {
+        "instructor-name": "Benjamin Walker",
+        "course-name": "Cybersecurity Basics",
+        "course-description": "Learn about security principles to protect digital information."
+    },
+    {
+        "instructor-name": "Ella Hall",
+        "course-name": "UX Design Fundamentals",
+        "course-description": "Understand the essentials of UX design for user-friendly products."
+    },
+    {
+        "instructor-name": "Jack Young",
+        "course-name": "C++ Programming for Beginners",
+        "course-description": "Start learning C++ programming with basic concepts and examples."
+    },
+    {
+        "instructor-name": "Ava Adams",
+        "course-name": "Content Strategy for Social Media",
+        "course-description": "Develop effective strategies for social media content."
+    },
+    {
+        "instructor-name": "Michael Scott",
+        "course-name": "Basics of Financial Analysis",
+        "course-description": "Analyze financial data and learn key business metrics."
+    },
+    {
+        "instructor-name": "Isabella White",
+        "course-name": "Intro to Mobile App Development",
+        "course-description": "Learn the basics of creating mobile applications."
+    },
+    {
+        "instructor-name": "Daniel Evans",
+        "course-name": "Big Data Essentials",
+        "course-description": "Get an introduction to big data concepts and tools."
+    },
+    {
+        "instructor-name": "Grace Anderson",
+        "course-name": "Creative Writing 101",
+        "course-description": "Learn techniques to develop engaging and original writing."
+    },
+    {
+        "instructor-name": "Oliver Moore",
+        "course-name": "Introduction to Artificial Intelligence",
+        "course-description": "Discover the fundamentals of artificial intelligence and its uses."
+    },
+    {
+        "instructor-name": "Victoria Martinez",
+        "course-name": "Social Media Marketing",
+        "course-description": "Use social media to effectively reach and engage audiences."
+    },
+    {
+        "instructor-name": "Liam Thompson",
+        "course-name": "Front-End Development with Angular",
+        "course-description": "Build dynamic, responsive websites using Angular."
+    },
+    {
+        "instructor-name": "Amelia Roberts",
+        "course-name": "R Programming for Data Science",
+        "course-description": "Explore data science techniques with R programming."
+    },
+    {
+        "instructor-name": "Benjamin Davis",
+        "course-name": "Blockchain Basics",
+        "course-description": "Understand blockchain technology and its real-world applications."
+    },
+    {
+        "instructor-name": "Chloe Harris",
+        "course-name": "Introduction to Robotics",
+        "course-description": "Learn the basics of robotics and simple programming."
+    },
+    {
+        "instructor-name": "Lucas Taylor",
+        "course-name": "Digital Illustration",
+        "course-description": "Create digital art using popular illustration software."
+    },
+    {
+        "instructor-name": "Ella Brown",
+        "course-name": "Project Management Essentials",
+        "course-description": "Learn the basics of managing projects efficiently."
+    },
+    {
+        "instructor-name": "James Green",
+        "course-name": "SQL for Business Analytics",
+        "course-description": "Analyze business data using SQL queries."
+    },
+    {
+        "instructor-name": "Olivia Thompson",
+        "course-name": "Video Editing Basics",
+        "course-description": "Get started with editing videos for storytelling."
+    },
+    {
+        "instructor-name": "William Martinez",
+        "course-name": "Photography 101",
+        "course-description": "Understand the basics of capturing great photographs."
+    },
+    {
+        "instructor-name": "Sophia Turner",
+        "course-name": "E-Commerce Business Setup",
+        "course-description": "Learn to set up and run your own online store."
+    },
+    {
+        "instructor-name": "David Clark",
+        "course-name": "AI in Business",
+        "course-description": "Understand how AI is transforming business processes."
+    },
+    {
+        "instructor-name": "Emily Evans",
+        "course-name": "Creative Design with Adobe Photoshop",
+        "course-description": "Learn design techniques using Adobe Photoshop."
+    },
+    {
+        "instructor-name": "Jackson Walker",
+        "course-name": "Back-End Development with Node.js",
+        "course-description": "Build server-side applications using Node.js."
+    },
+    {
+        "instructor-name": "Ava Parker",
+        "course-name": "Human Resource Management Basics",
+        "course-description": "Get introduced to HR principles and practices."
+    },
+    {
+        "instructor-name": "Daniel Nelson",
+        "course-name": "Marketing Analytics",
+        "course-description": "Analyze marketing data to make informed decisions."
+    },
+    {
+        "instructor-name": "Sophia Brooks",
+        "course-name": "Intro to Game Development",
+        "course-description": "Learn the basics of designing and developing games."
+    },
+    {
+        "instructor-name": "Matthew Lee",
+        "course-name": "Networking Fundamentals",
+        "course-description": "Understand the basics of networking and internet protocols."
+    },
+    {
+        "instructor-name": "Charlotte Lewis",
+        "course-name": "Web Design with Figma",
+        "course-description": "Design user-friendly websites with Figma."
+    },
+    {
+        "instructor-name": "Elijah Walker",
+        "course-name": "AI and Ethics",
+        "course-description": "Explore the ethical implications of AI technology."
+    },
+    {
+        "instructor-name": "Victoria Perez",
+        "course-name": "Design Thinking for Innovation",
+        "course-description": "Learn creative strategies for problem-solving."
+    },
+    {
+        "instructor-name": "John King",
+        "course-name": "Music Production Basics",
+        "course-description": "Get introduced to the basics of music production."
+    },
+    {
+        "instructor-name": "Grace Gonzalez",
+        "course-name": "App Development with Swift",
+        "course-description": "Learn how to develop apps using Swift for iOS."
+    },
+    {
+        "instructor-name": "David Rivera",
+        "course-name": "Introduction to Entrepreneurship",
+        "course-description": "Learn essential skills for starting your own business."
+    },
+    {
+        "instructor-name": "Chloe Bennett",
+        "course-name": "Public Speaking Fundamentals",
+        "course-description": "Develop skills to speak confidently in public."
+    },
+    {
+        "instructor-name": "Oliver Ramirez",
+        "course-name": "Creative Writing Workshop",
+        "course-description": "Enhance your creative writing skills through exercises."
+    }
+]
